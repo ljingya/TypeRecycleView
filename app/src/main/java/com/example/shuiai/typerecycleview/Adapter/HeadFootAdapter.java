@@ -13,7 +13,6 @@ import java.util.List;
 
 /**
  * @author shuiai@dianjia.io
- * @Company 杭州木瓜科技有限公司
  * @date 2016/10/14
  */
 
